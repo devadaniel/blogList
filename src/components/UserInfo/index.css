@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.profile-image {
+  width: 100px;
+}
+.profile-name {
+  font-family: 'Roboto';
+  font-size: 17px;
+  color: #616e7c;
+}
+.designation {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #9aa5b1;
+}
